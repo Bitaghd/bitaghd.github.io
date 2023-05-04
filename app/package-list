@@ -1,0 +1,122 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.example.myapplication.data////PointingToDeclaration/app/com.example.myapplication.data/index.html
+$dokka.location:com.example.myapplication.data/ProjectsDao///PointingToDeclaration/app/com.example.myapplication.data/-projects-dao/index.html
+$dokka.location:com.example.myapplication.data/ProjectsDao/addProjects/#com.example.myapplication.model.Projects/PointingToDeclaration/app/com.example.myapplication.data/-projects-dao/add-projects.html
+$dokka.location:com.example.myapplication.data/ProjectsDao/deleteAllProjects/#/PointingToDeclaration/app/com.example.myapplication.data/-projects-dao/delete-all-projects.html
+$dokka.location:com.example.myapplication.data/ProjectsDao/deleteProject/#com.example.myapplication.model.Projects/PointingToDeclaration/app/com.example.myapplication.data/-projects-dao/delete-project.html
+$dokka.location:com.example.myapplication.data/ProjectsDao/readAllProjects/#/PointingToDeclaration/app/com.example.myapplication.data/-projects-dao/read-all-projects.html
+$dokka.location:com.example.myapplication.data/ProjectsDao/updateProject/#com.example.myapplication.model.Projects/PointingToDeclaration/app/com.example.myapplication.data/-projects-dao/update-project.html
+$dokka.location:com.example.myapplication.data/ProjectsDatabase.Companion///PointingToDeclaration/app/com.example.myapplication.data/-projects-database/-companion/index.html
+$dokka.location:com.example.myapplication.data/ProjectsDatabase.Companion/getDatabase/#android.content.Context/PointingToDeclaration/app/com.example.myapplication.data/-projects-database/-companion/get-database.html
+$dokka.location:com.example.myapplication.data/ProjectsDatabase///PointingToDeclaration/app/com.example.myapplication.data/-projects-database/index.html
+$dokka.location:com.example.myapplication.data/ProjectsDatabase/ProjectsDatabase/#/PointingToDeclaration/app/com.example.myapplication.data/-projects-database/-projects-database.html
+$dokka.location:com.example.myapplication.data/ProjectsDatabase/projectsDao/#/PointingToDeclaration/app/com.example.myapplication.data/-projects-database/projects-dao.html
+$dokka.location:com.example.myapplication.fragments.add////PointingToDeclaration/app/com.example.myapplication.fragments.add/index.html
+$dokka.location:com.example.myapplication.fragments.add/AddProjectFragment///PointingToDeclaration/app/com.example.myapplication.fragments.add/-add-project-fragment/index.html
+$dokka.location:com.example.myapplication.fragments.add/AddProjectFragment/AddProjectFragment/#/PointingToDeclaration/app/com.example.myapplication.fragments.add/-add-project-fragment/-add-project-fragment.html
+$dokka.location:com.example.myapplication.fragments.add/AddProjectFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.myapplication.fragments.add/-add-project-fragment/on-create-view.html
+$dokka.location:com.example.myapplication.fragments.add/AddProjectFragment/onDestroyView/#/PointingToDeclaration/app/com.example.myapplication.fragments.add/-add-project-fragment/on-destroy-view.html
+$dokka.location:com.example.myapplication.fragments.main.project_details////PointingToDeclaration/app/com.example.myapplication.fragments.main.project_details/index.html
+$dokka.location:com.example.myapplication.fragments.main.project_details/ProjectDetailsFragment///PointingToDeclaration/app/com.example.myapplication.fragments.main.project_details/-project-details-fragment/index.html
+$dokka.location:com.example.myapplication.fragments.main.project_details/ProjectDetailsFragment/ProjectDetailsFragment/#/PointingToDeclaration/app/com.example.myapplication.fragments.main.project_details/-project-details-fragment/-project-details-fragment.html
+$dokka.location:com.example.myapplication.fragments.main.project_details/ProjectDetailsFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.myapplication.fragments.main.project_details/-project-details-fragment/on-create-view.html
+$dokka.location:com.example.myapplication.fragments.main.project_details/ProjectDetailsFragment/onDestroyView/#/PointingToDeclaration/app/com.example.myapplication.fragments.main.project_details/-project-details-fragment/on-destroy-view.html
+$dokka.location:com.example.myapplication.fragments.main.project_details/ProjectDetailsFragment/onViewCreated/#android.view.View#android.os.Bundle?/PointingToDeclaration/app/com.example.myapplication.fragments.main.project_details/-project-details-fragment/on-view-created.html
+$dokka.location:com.example.myapplication.fragments.main////PointingToDeclaration/app/com.example.myapplication.fragments.main/index.html
+$dokka.location:com.example.myapplication.fragments.main/MainAdapter.MyViewHolder///PointingToDeclaration/app/com.example.myapplication.fragments.main/-main-adapter/-my-view-holder/index.html
+$dokka.location:com.example.myapplication.fragments.main/MainAdapter.MyViewHolder/MyViewHolder/#[Error type: Unresolved type for ProjectRawBinding]#com.example.myapplication.fragments.main.MainAdapter.RawClickListener/PointingToDeclaration/app/com.example.myapplication.fragments.main/-main-adapter/-my-view-holder/-my-view-holder.html
+$dokka.location:com.example.myapplication.fragments.main/MainAdapter.MyViewHolder/binding/#/PointingToDeclaration/app/com.example.myapplication.fragments.main/-main-adapter/-my-view-holder/binding.html
+$dokka.location:com.example.myapplication.fragments.main/MainAdapter.MyViewHolder/listener/#/PointingToDeclaration/app/com.example.myapplication.fragments.main/-main-adapter/-my-view-holder/listener.html
+$dokka.location:com.example.myapplication.fragments.main/MainAdapter.RawClickListener///PointingToDeclaration/app/com.example.myapplication.fragments.main/-main-adapter/-raw-click-listener/index.html
+$dokka.location:com.example.myapplication.fragments.main/MainAdapter.RawClickListener/deleteProject/#com.example.myapplication.model.Projects/PointingToDeclaration/app/com.example.myapplication.fragments.main/-main-adapter/-raw-click-listener/delete-project.html
+$dokka.location:com.example.myapplication.fragments.main/MainAdapter///PointingToDeclaration/app/com.example.myapplication.fragments.main/-main-adapter/index.html
+$dokka.location:com.example.myapplication.fragments.main/MainAdapter/MainAdapter/#com.example.myapplication.fragments.main.MainAdapter.RawClickListener/PointingToDeclaration/app/com.example.myapplication.fragments.main/-main-adapter/-main-adapter.html
+$dokka.location:com.example.myapplication.fragments.main/MainAdapter/getItemCount/#/PointingToDeclaration/app/com.example.myapplication.fragments.main/-main-adapter/get-item-count.html
+$dokka.location:com.example.myapplication.fragments.main/MainAdapter/listener/#/PointingToDeclaration/app/com.example.myapplication.fragments.main/-main-adapter/listener.html
+$dokka.location:com.example.myapplication.fragments.main/MainAdapter/onBindViewHolder/#com.example.myapplication.fragments.main.MainAdapter.MyViewHolder#kotlin.Int/PointingToDeclaration/app/com.example.myapplication.fragments.main/-main-adapter/on-bind-view-holder.html
+$dokka.location:com.example.myapplication.fragments.main/MainAdapter/onCreateViewHolder/#android.view.ViewGroup#kotlin.Int/PointingToDeclaration/app/com.example.myapplication.fragments.main/-main-adapter/on-create-view-holder.html
+$dokka.location:com.example.myapplication.fragments.main/MainAdapter/setData/#kotlin.collections.List[com.example.myapplication.model.Projects]/PointingToDeclaration/app/com.example.myapplication.fragments.main/-main-adapter/set-data.html
+$dokka.location:com.example.myapplication.fragments.main/MainFragment///PointingToDeclaration/app/com.example.myapplication.fragments.main/-main-fragment/index.html
+$dokka.location:com.example.myapplication.fragments.main/MainFragment/MainFragment/#/PointingToDeclaration/app/com.example.myapplication.fragments.main/-main-fragment/-main-fragment.html
+$dokka.location:com.example.myapplication.fragments.main/MainFragment/deleteProject/#com.example.myapplication.model.Projects/PointingToDeclaration/app/com.example.myapplication.fragments.main/-main-fragment/delete-project.html
+$dokka.location:com.example.myapplication.fragments.main/MainFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.myapplication.fragments.main/-main-fragment/on-create-view.html
+$dokka.location:com.example.myapplication.fragments.main/MainFragment/onDestroyView/#/PointingToDeclaration/app/com.example.myapplication.fragments.main/-main-fragment/on-destroy-view.html
+$dokka.location:com.example.myapplication.fragments.main/MainFragment/onViewCreated/#android.view.View#android.os.Bundle?/PointingToDeclaration/app/com.example.myapplication.fragments.main/-main-fragment/on-view-created.html
+$dokka.location:com.example.myapplication.fragments.update////PointingToDeclaration/app/com.example.myapplication.fragments.update/index.html
+$dokka.location:com.example.myapplication.fragments.update/UpdateFragment///PointingToDeclaration/app/com.example.myapplication.fragments.update/-update-fragment/index.html
+$dokka.location:com.example.myapplication.fragments.update/UpdateFragment/UpdateFragment/#/PointingToDeclaration/app/com.example.myapplication.fragments.update/-update-fragment/-update-fragment.html
+$dokka.location:com.example.myapplication.fragments.update/UpdateFragment/onCreate/#android.os.Bundle?/PointingToDeclaration/app/com.example.myapplication.fragments.update/-update-fragment/on-create.html
+$dokka.location:com.example.myapplication.fragments.update/UpdateFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.myapplication.fragments.update/-update-fragment/on-create-view.html
+$dokka.location:com.example.myapplication.fragments.update/UpdateFragment/onDestroyView/#/PointingToDeclaration/app/com.example.myapplication.fragments.update/-update-fragment/on-destroy-view.html
+$dokka.location:com.example.myapplication.fragments.update/UpdateFragment/onViewCreated/#android.view.View#android.os.Bundle?/PointingToDeclaration/app/com.example.myapplication.fragments.update/-update-fragment/on-view-created.html
+$dokka.location:com.example.myapplication.model////PointingToDeclaration/app/com.example.myapplication.model/index.html
+$dokka.location:com.example.myapplication.model/Projects///PointingToDeclaration/app/com.example.myapplication.model/-projects/index.html
+$dokka.location:com.example.myapplication.model/Projects/Projects/#kotlin.Int#kotlin.String#kotlin.String#kotlin.Int/PointingToDeclaration/app/com.example.myapplication.model/-projects/-projects.html
+$dokka.location:com.example.myapplication.model/Projects/author_name/#/PointingToDeclaration/app/com.example.myapplication.model/-projects/author_name.html
+$dokka.location:com.example.myapplication.model/Projects/date/#/PointingToDeclaration/app/com.example.myapplication.model/-projects/date.html
+$dokka.location:com.example.myapplication.model/Projects/id/#/PointingToDeclaration/app/com.example.myapplication.model/-projects/id.html
+$dokka.location:com.example.myapplication.model/Projects/pr_name/#/PointingToDeclaration/app/com.example.myapplication.model/-projects/pr_name.html
+$dokka.location:com.example.myapplication.model/Scene///PointingToDeclaration/app/com.example.myapplication.model/-scene/index.html
+$dokka.location:com.example.myapplication.model/Scene/Scene/#kotlin.Int#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/app/com.example.myapplication.model/-scene/-scene.html
+$dokka.location:com.example.myapplication.model/Scene/desc/#/PointingToDeclaration/app/com.example.myapplication.model/-scene/desc.html
+$dokka.location:com.example.myapplication.model/Scene/location/#/PointingToDeclaration/app/com.example.myapplication.model/-scene/location.html
+$dokka.location:com.example.myapplication.model/Scene/scene_id/#/PointingToDeclaration/app/com.example.myapplication.model/-scene/scene_id.html
+$dokka.location:com.example.myapplication.model/Scene/scene_name/#/PointingToDeclaration/app/com.example.myapplication.model/-scene/scene_name.html
+$dokka.location:com.example.myapplication.repository////PointingToDeclaration/app/com.example.myapplication.repository/index.html
+$dokka.location:com.example.myapplication.repository/ProjectsRepository///PointingToDeclaration/app/com.example.myapplication.repository/-projects-repository/index.html
+$dokka.location:com.example.myapplication.repository/ProjectsRepository/ProjectsRepository/#com.example.myapplication.data.ProjectsDao/PointingToDeclaration/app/com.example.myapplication.repository/-projects-repository/-projects-repository.html
+$dokka.location:com.example.myapplication.repository/ProjectsRepository/addProjects/#com.example.myapplication.model.Projects/PointingToDeclaration/app/com.example.myapplication.repository/-projects-repository/add-projects.html
+$dokka.location:com.example.myapplication.repository/ProjectsRepository/deleteAllProjects/#/PointingToDeclaration/app/com.example.myapplication.repository/-projects-repository/delete-all-projects.html
+$dokka.location:com.example.myapplication.repository/ProjectsRepository/deleteProject/#com.example.myapplication.model.Projects/PointingToDeclaration/app/com.example.myapplication.repository/-projects-repository/delete-project.html
+$dokka.location:com.example.myapplication.repository/ProjectsRepository/readAllProjects/#/PointingToDeclaration/app/com.example.myapplication.repository/-projects-repository/read-all-projects.html
+$dokka.location:com.example.myapplication.repository/ProjectsRepository/updateProject/#com.example.myapplication.model.Projects/PointingToDeclaration/app/com.example.myapplication.repository/-projects-repository/update-project.html
+$dokka.location:com.example.myapplication.viewmodel////PointingToDeclaration/app/com.example.myapplication.viewmodel/index.html
+$dokka.location:com.example.myapplication.viewmodel/DataViewModel///PointingToDeclaration/app/com.example.myapplication.viewmodel/-data-view-model/index.html
+$dokka.location:com.example.myapplication.viewmodel/DataViewModel/DataViewModel/#android.app.Application/PointingToDeclaration/app/com.example.myapplication.viewmodel/-data-view-model/-data-view-model.html
+$dokka.location:com.example.myapplication.viewmodel/DataViewModel/addProjects/#com.example.myapplication.model.Projects/PointingToDeclaration/app/com.example.myapplication.viewmodel/-data-view-model/add-projects.html
+$dokka.location:com.example.myapplication.viewmodel/DataViewModel/deleteAllProjects/#/PointingToDeclaration/app/com.example.myapplication.viewmodel/-data-view-model/delete-all-projects.html
+$dokka.location:com.example.myapplication.viewmodel/DataViewModel/deleteProject/#com.example.myapplication.model.Projects/PointingToDeclaration/app/com.example.myapplication.viewmodel/-data-view-model/delete-project.html
+$dokka.location:com.example.myapplication.viewmodel/DataViewModel/readAllProjects/#/PointingToDeclaration/app/com.example.myapplication.viewmodel/-data-view-model/read-all-projects.html
+$dokka.location:com.example.myapplication.viewmodel/DataViewModel/updateProject/#com.example.myapplication.model.Projects/PointingToDeclaration/app/com.example.myapplication.viewmodel/-data-view-model/update-project.html
+$dokka.location:com.example.myapplication////PointingToDeclaration/app/com.example.myapplication/index.html
+$dokka.location:com.example.myapplication/CharacterFragment.Companion///PointingToDeclaration/app/com.example.myapplication/-character-fragment/-companion/index.html
+$dokka.location:com.example.myapplication/CharacterFragment.Companion/newInstance/#kotlin.String#kotlin.String/PointingToDeclaration/app/com.example.myapplication/-character-fragment/-companion/new-instance.html
+$dokka.location:com.example.myapplication/CharacterFragment///PointingToDeclaration/app/com.example.myapplication/-character-fragment/index.html
+$dokka.location:com.example.myapplication/CharacterFragment/CharacterFragment/#/PointingToDeclaration/app/com.example.myapplication/-character-fragment/-character-fragment.html
+$dokka.location:com.example.myapplication/CharacterFragment/onCreate/#android.os.Bundle?/PointingToDeclaration/app/com.example.myapplication/-character-fragment/on-create.html
+$dokka.location:com.example.myapplication/CharacterFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.myapplication/-character-fragment/on-create-view.html
+$dokka.location:com.example.myapplication/LocationFragment.Companion///PointingToDeclaration/app/com.example.myapplication/-location-fragment/-companion/index.html
+$dokka.location:com.example.myapplication/LocationFragment.Companion/newInstance/#kotlin.String#kotlin.String/PointingToDeclaration/app/com.example.myapplication/-location-fragment/-companion/new-instance.html
+$dokka.location:com.example.myapplication/LocationFragment///PointingToDeclaration/app/com.example.myapplication/-location-fragment/index.html
+$dokka.location:com.example.myapplication/LocationFragment/LocationFragment/#/PointingToDeclaration/app/com.example.myapplication/-location-fragment/-location-fragment.html
+$dokka.location:com.example.myapplication/LocationFragment/onCreate/#android.os.Bundle?/PointingToDeclaration/app/com.example.myapplication/-location-fragment/on-create.html
+$dokka.location:com.example.myapplication/LocationFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.myapplication/-location-fragment/on-create-view.html
+$dokka.location:com.example.myapplication/MainActivity///PointingToDeclaration/app/com.example.myapplication/-main-activity/index.html
+$dokka.location:com.example.myapplication/MainActivity/MainActivity/#/PointingToDeclaration/app/com.example.myapplication/-main-activity/-main-activity.html
+$dokka.location:com.example.myapplication/MainActivity/binding/#/PointingToDeclaration/app/com.example.myapplication/-main-activity/binding.html
+$dokka.location:com.example.myapplication/MainActivity/onSupportNavigateUp/#/PointingToDeclaration/app/com.example.myapplication/-main-activity/on-support-navigate-up.html
+$dokka.location:com.example.myapplication/SceneFragment.Companion///PointingToDeclaration/app/com.example.myapplication/-scene-fragment/-companion/index.html
+$dokka.location:com.example.myapplication/SceneFragment.Companion/newInstance/#kotlin.String#kotlin.String/PointingToDeclaration/app/com.example.myapplication/-scene-fragment/-companion/new-instance.html
+$dokka.location:com.example.myapplication/SceneFragment///PointingToDeclaration/app/com.example.myapplication/-scene-fragment/index.html
+$dokka.location:com.example.myapplication/SceneFragment/SceneFragment/#/PointingToDeclaration/app/com.example.myapplication/-scene-fragment/-scene-fragment.html
+$dokka.location:com.example.myapplication/SceneFragment/onCreate/#android.os.Bundle?/PointingToDeclaration/app/com.example.myapplication/-scene-fragment/on-create.html
+$dokka.location:com.example.myapplication/SceneFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.myapplication/-scene-fragment/on-create-view.html
+$dokka.location:com.example.myapplication/SupportActivity///PointingToDeclaration/app/com.example.myapplication/-support-activity/index.html
+$dokka.location:com.example.myapplication/SupportActivity/SupportActivity/#/PointingToDeclaration/app/com.example.myapplication/-support-activity/-support-activity.html
+$dokka.location:com.example.myapplication/SupportFragment///PointingToDeclaration/app/com.example.myapplication/-support-fragment/index.html
+$dokka.location:com.example.myapplication/SupportFragment/SupportFragment/#/PointingToDeclaration/app/com.example.myapplication/-support-fragment/-support-fragment.html
+$dokka.location:com.example.myapplication/SupportFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.myapplication/-support-fragment/on-create-view.html
+$dokka.location:com.example.myapplication/SupportFragment/onDestroyView/#/PointingToDeclaration/app/com.example.myapplication/-support-fragment/on-destroy-view.html
+$dokka.location:com.example.myapplication/SupportFragment/onViewCreated/#android.view.View#android.os.Bundle?/PointingToDeclaration/app/com.example.myapplication/-support-fragment/on-view-created.html
+$dokka.location:com.example.myapplication/SupportFragment/viewModel/#/PointingToDeclaration/app/com.example.myapplication/-support-fragment/view-model.html
+com.example.myapplication
+com.example.myapplication.data
+com.example.myapplication.fragments.add
+com.example.myapplication.fragments.main
+com.example.myapplication.fragments.main.project_details
+com.example.myapplication.fragments.update
+com.example.myapplication.model
+com.example.myapplication.repository
+com.example.myapplication.viewmodel
+
